@@ -2,7 +2,8 @@
 
 Module 12 Challenge
 
-Overview
+#Overview
+
 This repository contains code and analysis focusing on evaluating food hygiene ratings data for various establishments across the United Kingdom. The purpose of this project is to assist the food magazine, Eat Safe, Love, in providing insights to journalists and food critics for deciding where to focus future articles.
 
 NoSQL_analysis_starter.ipynb
